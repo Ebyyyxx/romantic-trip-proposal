@@ -1,17 +1,17 @@
 export const destinations = [
   {
     id: 1,
-    name: "Borobudur Temple Sunrise",
-    description: "Wake up early and visit Borobudur, the world's largest Buddhist temple. The misty surroundings, golden sunlight, and serene ambiance make this one of the most romantic experiences in Yogyakarta.",
-    image: "https://images.unsplash.com/photo-1537428272335-ab7d35d4a838?w=500&h=400&fit=crop",
-    highlight: "World's largest Buddhist temple with stunning sunrise views",
-    activities: ["Sunrise viewing", "Temple exploration", "Photography"],
+    name: "Dams Durian",
+    description: "Durian brulee, durian es krim, durian biasa pokoknyaa serba durian kesukaan ayang!!",
+    image: "https://images.unsplash.com/photo-1588482415422-a061902e00a4?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    highlight: "Dams Durian",
+    activities: ["Ayang mam durian", "Aku tutup idung", "Kalo ga aku nunggu di parkiran"],
     vibe: "Spiritual & Serene"
   },
   {
     id: 2,
     name: "Prambanan Temple at Sunset",
-    description: "Witness the majestic beauty of this UNESCO World Heritage Site as the sun sets, casting a magical glow over the ancient Hindu temples. The evening Ramayana Ballet performance adds drama.",
+    description: "Piknik aja gituu di prambanan liat sunset makan di restonya",
     image: "https://images.unsplash.com/photo-1511884642898-4c92249e20b6?w=500&h=400&fit=crop",
     highlight: "UNESCO World Heritage Site with breathtaking sunsets",
     activities: ["Sunset viewing", "Ramayana Ballet", "Temple tour"],
@@ -19,19 +19,19 @@ export const destinations = [
   },
   {
     id: 3,
-    name: "Parangtritis Beach",
-    description: "A magical beach perfect for sunset horseback rides, romantic picnics, and mystical tales. Explore the nearby sand dunes for a unique adventure together.",
-    image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=500&h=400&fit=crop",
-    highlight: "Stunning beach with sunset horseback riding experiences",
-    activities: ["Sunset ride", "Beach walk", "Picnic"],
+    name: "Sadranan Beach",
+    description: "POKOKNYA SNORKELING!!!.",
+    image: "https://images.unsplash.com/photo-1664552348837-367b555cfaa9?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    highlight: "SNORKELING!!!!",
+    activities: ["Sunset ride", "snorkeling", "Picnic"],
     vibe: "Adventurous & Dreamy"
   },
   {
     id: 4,
-    name: "Taman Sari Water Castle",
-    description: "Explore historic and picturesque royal gardens. Wander through secret passageways, admire tranquil pools, and discover the palace's romantic past. Perfect for couple photos.",
-    image: "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=500&h=400&fit=crop",
-    highlight: "Historic royal gardens with secret passageways and colorful murals",
+    name: "Hidden matcha cafe",
+    description: "Pokoknya serba matcha kesukaan ayang lagi!!",
+    image: "https://images.unsplash.com/photo-1749280447307-31a68eb38673?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    highlight: "Matcha cafe hidden gem tempatnya masuk2 gang gituuuu",
     activities: ["Garden exploration", "Photography", "History tour"],
     vibe: "Historic & Artistic"
   },
